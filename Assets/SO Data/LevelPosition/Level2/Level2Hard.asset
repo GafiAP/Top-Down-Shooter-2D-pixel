@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edad2e8a897886d4ea451ba3abf0f3b0, type: 3}
+  m_Name: Level2Hard
+  m_EditorClassIdentifier: 
+  enemyRangedPosition:
+  - {fileID: 6117768357185206889, guid: a9aaad1e365cb2b4e9671a2f79668db1, type: 3}
+  - {fileID: 7946732734040456895, guid: 4668083d538904e4ca10b93ab1e3c698, type: 3}
+  - {fileID: 3530267515671109496, guid: b94081daa0f1801418695366a084e030, type: 3}
+  - {fileID: 2309038666207919243, guid: d96ee6ef83aaf504e8b7205aa7e3600d, type: 3}
+  - {fileID: 7362169219934278038, guid: 1e7a931520577d443a7b5cae8703ed83, type: 3}
+  - {fileID: 4938559046124962845, guid: 56f726658c93edf4da78decef160fec2, type: 3}
+  enemyMeleePosition:
+  - {fileID: 6190538511438448282, guid: f0485ae5b2902354995476ff42a43f9d, type: 3}
+  - {fileID: 3364379403505912435, guid: ba3cc7ead80d67c43bf20629564847dd, type: 3}
+  difficulty: Hard

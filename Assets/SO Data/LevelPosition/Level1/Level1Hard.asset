@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edad2e8a897886d4ea451ba3abf0f3b0, type: 3}
+  m_Name: Level1Hard
+  m_EditorClassIdentifier: 
+  enemyRangedPosition:
+  - {fileID: 4280600288966781288, guid: 5deab9247b23f3b43aaf7cd27e21f0e9, type: 3}
+  - {fileID: 7171555983934521441, guid: ed1671d869ca23d49a88cce4c3bf3138, type: 3}
+  - {fileID: 7312752176322403279, guid: 037ccde23c17a0d48a7808c4536f6733, type: 3}
+  - {fileID: 550826789555234058, guid: 209d48d07abe104469e9e78619c87637, type: 3}
+  - {fileID: 5264559006849832102, guid: 211629e89565ad7469001eecaae8b207, type: 3}
+  enemyMeleePosition:
+  - {fileID: 7736882141894531490, guid: c232080c95529ea48a8e9d57862db499, type: 3}
+  - {fileID: 4531961221698952009, guid: 315e33acbea481440bcd5bc9a86c2fb0, type: 3}
+  difficulty: Hard
